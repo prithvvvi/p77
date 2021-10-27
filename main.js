@@ -1,0 +1,14 @@
+var first_name="prithvvi";
+var last_name="rana";
+first_name.concat(last_name);
+console.log(first_name);
+var a=5;
+var b=50;
+var sum=a+b;
+console.log(sum);
+var sum1=a-b;
+console.log(sum1);
+var sum2=a*b;
+console.log(sum2);
+var sum3=a/b;
+console.log(sum3);
